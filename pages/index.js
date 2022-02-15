@@ -23,8 +23,8 @@ export default function Home() {
     <section className="border-2 dark:border-b-0 dark:border-x-0 dark:rounded-none dark:from-slate-900 dark:to-slate-800 bg-gradient-to-r from-white to-white  border-pink-500 rounded mx-2 mt-3">
       <section className="m-4 font-sans leading-6 -tracking-tight">
         <p className="">
-          - Học tại khoa Công nghệ thông tin trường Đại học Công nghiệp tp. Hồ
-          Chí Minh.
+          - Studied at Faculty of Information Technology, Ho Chi Minh University
+          of Industry
         </p>
         <p>- Từng học lập trình Laravel tại Unitop.vn.</p>
         <p

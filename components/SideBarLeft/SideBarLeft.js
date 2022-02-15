@@ -35,7 +35,10 @@ function SideBarLeft(props) {
       />
 
       <h3 className="my-4 text-2xl tracking-wider">
-        <span className="text-red-400 dark:text-green-600">Vương Qu</span>ốc Bảo
+        <span className="text-red-400 dark:text-green-600 font-bold">
+          Vương Qu
+        </span>
+        ốc Bảo
       </h3>
       <p className="px-2 mx-4 py-1 mt-3 mb-5 dark:bg-gradient-to-r dark:from-indigo-500 dark:via-purple-500 dark:to-pink-500 bg-slate-200 dark:bg-red rounded-full hover:cursor-pointer">
         FrontEnd Developer
@@ -48,7 +51,7 @@ function SideBarLeft(props) {
         onClick={() => window.open("mailto:vuongquocbao98@gmail.com")}
       >
         <AiFillMail className="w-4 h-4 mr-1 animate-bounce" />
-        Gửi Mail Tôi
+        Gửi mail tôi
       </p>
 
       {/* Socical Icons  */}
@@ -71,7 +74,7 @@ function SideBarLeft(props) {
         </a>
       </div>
       {/* Address */}
-      <div className="bg-gray-200 dark:bg-gradient-to-r dark:from-indigo-500 dark:via-purple-500 dark:to-pink-500 mt-2 leading-7">
+      <div className="bg-gray-200 dark:bg-gradient-to-r font-superfont dark:from-indigo-500 dark:via-purple-500 dark:to-pink-500 mt-2 leading-7">
         <div className="flex justify-center pt-2">
           <ImLocation2 className="mr-1 text-pink-600" />
           <span>TP.Ho Chi Minh</span>

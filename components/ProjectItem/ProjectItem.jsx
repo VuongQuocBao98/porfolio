@@ -61,6 +61,31 @@ function ProjectItem({}) {
         </div>
       </div>
 
+      {/* Bán hàng  */}
+      <div className="col-span-12 md:col-span-6 border p-2 font-sans text-xs lg:text-sm">
+        <div className="text-black dark:text-white">
+          <Link href="https://webapp-six-omega.vercel.app/" passHref>
+            <a target="_blank">
+              <h4 className="text-green-500 font-bold hover:cursor-pointer my-2">
+                WebSite bán Hàng
+              </h4>
+              <img src="/store.PNG" alt="newstore" />
+            </a>
+          </Link>
+          <h3 className="text-red-600">Hiện đang được cập nhật</h3>
+          <h5 className="text-red-600">Đang cập nhật lại...</h5>
+          <h5 className="font-bold my-2">
+            WebSite bán Quần áo sử dụng Nextjs FrameWork + Material Ui
+          </h5>
+
+          <p>
+            - Sử dụng Nextjs để tối ưu hóa SEO cho khách hàng, kèm theo một số
+            chức năng để đăng sản phẩm, cập nhật, khuyến mãi,..
+          </p>
+
+          <p>- ✨ Giao diện làm với Material Ui ➡ TailWindCss</p>
+        </div>
+      </div>
       {/* Unimart unitop  */}
       <div className="col-span-12 md:col-span-6  border p-2 font-sans text-xs lg:text-sm">
         <div className="text-black dark:text-white">
@@ -133,33 +158,6 @@ function ProjectItem({}) {
           </p>
 
           <p>- ✨ Giao diện làm với Bootstrap</p>
-        </div>
-      </div>
-
-      <div className="col-span-12 md:col-span-6 border p-2 font-sans text-xs lg:text-sm">
-        <div className="text-black dark:text-white">
-          <Link href="https://bao.unitopcv.com/doan1" passHref>
-            <a target="_blank">
-              <h4 className="text-green-500 font-bold hover:cursor-pointer my-2">
-                WebSite bán thuốc nhập khẩu từ Đức
-              </h4>
-            </a>
-          </Link>
-          <h3 className="text-red-600">
-            Domain của website hiện đang hết hạn.
-          </h3>
-          <h5 className="text-red-600">Đang cập nhật lại...</h5>
-          <h5 className="font-bold my-2">
-            WebSite bán thuốc nhập khẩu từ Đức sử dụng Nextjs FrameWork +
-            TailWindCss
-          </h5>
-          <p>- Website bán thuốc nhập khẩu với các chức năng cớ bản.</p>
-          <p>
-            - Sử dụng Nextjs để tối ưu hóa SEO cho khách hàng, kèm theo một số
-            chức năng để đăng sản phẩm, cập nhật, khuyến mãi,..
-          </p>
-
-          <p>- ✨ Giao diện làm với TailWindCss</p>
         </div>
       </div>
     </>
