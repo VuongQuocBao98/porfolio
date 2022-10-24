@@ -33,6 +33,10 @@ export default function Home() {
               "- Đã từng làm việc tại DataEglobal một khoảng thời gian ngắn tại vị trí frontend (html,css,jquery,laravel).",
           }}
         />
+        <p>
+          - Làm việc tại ttm68 (Jarvix Labs): Reactjs, Moralis database, react
+          native, javascript
+        </p>
       </section>
       {/* My Skil */}
       <section className="m-4">
