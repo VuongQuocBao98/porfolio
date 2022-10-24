@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
         <title>Bao Vuong</title>
         <link rel="icon" href="https://i.imgur.com/5KfSSBJ.png" />
       </Head>
-      <main className="font-sans">
+      <main className="font-sans min-h-screen flex items-center">
         <section className="md:px-32 mt-4 mb-6 px-12 bg-transparent grid grid-cols-12 gap-6">
           <div className="lg:col-span-3 col-span-12 text-center dark:bg-slate-900 bg-white rounded-lg border-2 border-blue-200">
             <SideBarLeft />
