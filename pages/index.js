@@ -23,19 +23,21 @@ export default function Home() {
     <section className="border-2 dark:border-b-0 dark:border-x-0 dark:rounded-none dark:from-slate-900 dark:to-slate-800 bg-gradient-to-r from-white to-white  border-pink-500 rounded mx-2 mt-3">
       <section className="m-4 font-sans leading-6 -tracking-tight">
         <p className="">
-          - Studied at Faculty of Information Technology, Ho Chi Minh University
-          of Industry
+          - Học tại khoa công nghệ thông tin, chuyên nghành kỹ thuật phần mềm
+          khóa 12, trường ĐH Công Nghiệp TP.HCM
         </p>
-        <p>- Từng học lập trình Laravel tại Unitop.vn.</p>
         <p
           dangerouslySetInnerHTML={{
             __html:
-              "- Đã từng làm việc tại DataEglobal một khoảng thời gian ngắn tại vị trí frontend (html,css,jquery,laravel).",
+              "- Đã từng làm việc tại DataEglobal một khoảng thời gian ngắn (html,css,jquery,laravel).",
           }}
         />
         <p>
-          - Làm việc tại ttm68 (Jarvix Labs): Reactjs, Moralis database, react
-          native, javascript
+          - Làm việc tại TTM68 (Jarvix Labs): <br /> &nbsp;&nbsp; + Chịu trách
+          nhiệm chính về database Moralis <br /> &nbsp;&nbsp; + Làm việc với các
+          smartContract BSC <br /> &nbsp;&nbsp; + Làm việc với framework Reactjs
+          <br /> &nbsp;&nbsp; + Và tham gia chung trong 1 số dự án khác React
+          Native app, Web javascript thuần, Python bot,...
         </p>
       </section>
       {/* My Skil */}
