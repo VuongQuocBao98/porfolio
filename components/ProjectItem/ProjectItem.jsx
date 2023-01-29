@@ -33,7 +33,7 @@ function ProjectItem({}) {
       {/* Bán hàng  */}
       <div className="col-span-12 md:col-span-6 border p-2 font-sans text-xs lg:text-sm">
         <div className="text-black dark:text-white">
-          <Link href="https://webapp-six-omega.vercel.app/" passHref>
+          <Link href="https://pyramidpad.io/" passHref>
             <a target="_blank">
               <h4 className="text-green-500 font-bold hover:cursor-pointer my-2">
                 Tổ hợp Web marketplace,launchpad web,...
@@ -51,14 +51,14 @@ function ProjectItem({}) {
               </h5>
             </a>
           </Link>
-          <Link href="https://webapp-six-omega.vercel.app/" passHref>
+          <Link href="https://pyramidpad.io/" passHref>
             <a target="_blank">
               <h5 className="font-medium underline-offset-2 underline my-1 text-blue-500">
                 Link Pyramid web
               </h5>
             </a>
           </Link>
-          <Link href="https://webapp-six-omega.vercel.app/" passHref>
+          <Link href="https://launchpad.pyramidpad.io/" passHref>
             <a target="_blank">
               <h5 className="font-medium underline-offset-2 underline my-1 text-blue-500">
                 Link Launchpad web
