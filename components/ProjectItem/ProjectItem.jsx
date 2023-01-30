@@ -38,7 +38,7 @@ function ProjectItem({}) {
               <h4 className="text-green-500 font-bold hover:cursor-pointer my-2">
                 Tổ hợp Web marketplace,launchpad web,...
               </h4>
-              <img src="/pyra1.png" alt="newstore" />
+              <img src="/py.png" alt="newstore" />
             </a>
           </Link>
 
