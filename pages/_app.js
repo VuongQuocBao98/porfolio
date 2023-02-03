@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     <ThemeProvider>
       <Head>
         <title>Bao Vuong</title>
-        <link rel="icon" href="https://i.imgur.com/5KfSSBJ.png" />
+        <link rel="icon" href="https://i.imgur.com/sAoyMua.jpg" />
       </Head>
       <main className="font-sans min-h-screen flex items-center">
         <section className="md:px-32 mt-4 mb-6 px-12 bg-transparent grid grid-cols-12 gap-6">
