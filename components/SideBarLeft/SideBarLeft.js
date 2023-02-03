@@ -11,6 +11,7 @@ function SideBarLeft(props) {
   // toggle dark mode & light mode
 
   useEffect(() => {
+    setTheme("dark");
     if (localStorage.theme === "dark") {
       document.documentElement.classList.add("dark");
     } else {

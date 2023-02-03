@@ -12,6 +12,13 @@ export const dataSkill = [
     descrip: "",
   },
   {
+    icon: SiHtmlacademy,
+    detail2: "Dùng được MySQL, SQL database",
+    detail3: "Material Ui, Tailwind Css, Biết dùng Bootstrap / Html / Css,...",
+    detail1: "Làm việc được với database Moralis, Firebase google",
+    descrip: "",
+  },
+  {
     icon: SiNextdotjs,
     detail1: "Sử dụng được Framework Nextjs",
     detail2: "Sử dụng được recoil",
@@ -26,24 +33,19 @@ export const dataSkill = [
     descrip: "",
   },
   {
-    icon: SiHtmlacademy,
-    detail2: "Dùng được MySQL, SQL database",
-    detail3: "Material Ui, Tailwind Css, Biết dùng Bootstrap / Html / Css,...",
-    detail1: "Làm việc được với database Firebase google",
-    descrip: "",
-  },
-  {
-    icon: RiVuejsFill,
-    detail1: "Làm việc cơ bản với framework Vuejs.",
-    detail2: "Sử dụng được cơ bản Vuex.",
+    icon: SiAdobephotoshop,
+    detail1:
+      "Biết kiến thức cơ bản về figma, thiết kế giao diện web đơn giản cũng như cắt giao diện trên figma",
+    detail2:
+      "Biết một ít kiến thức cơ bản về Photoshop, cắt hình ảnh sang giao diện thành html",
     detail3: "",
     descrip: "",
   },
   {
-    icon: SiAdobephotoshop,
+    icon: RiVuejsFill,
     detail1:
-      "Biết một ít kiến thức cơ bản về Photoshop, cắt hình ảnh sang giao diện thành html",
-    detail2: "làm việc được với API",
+      "Gần 2 năm kinh nghiệm làm việc trên nhiều vị trí và công nghệ khác nhau",
+    detail2: "Sẵn sàng học thêm kiến thức mới phù hợp với công việc yêu cầu.",
     detail3: "",
     descrip: "",
   },

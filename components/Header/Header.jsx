@@ -28,6 +28,10 @@ function Header(props) {
       <span className="underline underline-offset-8 decoration-green-500 capitalize font-extrabold text-yellow-500">
         {activeItem}
       </span>
+      {activeItem === "projects" && (
+        <p className="text-sm">Đây là một vài dự án nhỏ có thể xem </p>
+      )}
+
       <div className="flex space-x-3 font-bold">
         {navBar(activeItem, "/", setActiveItem, "about")}
 
