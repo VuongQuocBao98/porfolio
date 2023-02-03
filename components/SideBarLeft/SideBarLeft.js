@@ -89,7 +89,7 @@ function SideBarLeft(props) {
         className="px-8 py-1 my-6 dark:bg-gradient-to-l dark:from-green-400 flex items-center dark:to-blue-500 bg-gradient-to-t rounded-full justify-center mx-auto from-pink-300 to-yellow-400"
         onClick={() => toggleModeUi()}
       >
-        Ngày <IoMdSunny className="m-2" /> Đêm{" "}
+        Sun <IoMdSunny className="m-2" /> Moon{" "}
         <BsFillMoonStarsFill className="m-2" />
       </button>
     </>

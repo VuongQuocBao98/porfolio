@@ -29,7 +29,7 @@ function Header(props) {
         {activeItem}
       </span>
       {activeItem === "projects" && (
-        <p className="text-sm">Đây là một vài dự án nhỏ có thể xem </p>
+        <p className="text-sm">Here are a few projects that can be viewed </p>
       )}
 
       <div className="flex space-x-3 font-bold">
