@@ -29,7 +29,7 @@ function SideBarLeft(props) {
   return (
     <>
       <img
-        src="https://i.imgur.com/4AERwg8.png"
+        src="https://i.imgur.com/sAoyMua.jpg"
         className="w-32 h-32 rounded-full justify-center text-center border-2 border-yellow-500 dark:border-green-600 my-3 m-auto"
         alt="avatar"
       />
