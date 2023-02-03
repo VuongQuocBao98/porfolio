@@ -52,7 +52,7 @@ function SideBarLeft(props) {
         onClick={() => window.open("mailto:vuongquocbao98@gmail.com")}
       >
         <AiFillMail className="w-4 h-4 mr-1 animate-bounce" />
-        Gửi mail tôi
+        Email me
       </p>
 
       {/* Socical Icons  */}
