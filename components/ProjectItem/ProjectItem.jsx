@@ -50,6 +50,7 @@ function ProjectItem({}) {
           </Link>
           <h5 className="font-bold my-2">SoccerWorld Blockchain GameFi</h5>
           <p>- Team size: 3.</p>
+          <p>- Timeline: about 2.5 month (3 versions)</p>
           <p>- Responsiable: </p>
           <p> + Team lead: Control task list/timeline/team report</p>
           <p> + Support team members if they have problems</p>
@@ -92,6 +93,7 @@ function ProjectItem({}) {
 
           <h5 className="font-bold my-2">SoccerWorld</h5>
           <p>- Team size: 1.</p>
+          <p>- Timeline: 2021</p>
           <p>- Responsiable: </p>
           <p> + Build Client with Reactjs</p>
           <p>- ✨ Interface made with taiwindcss and other libraries</p>
@@ -131,6 +133,8 @@ function ProjectItem({}) {
           </Link>
 
           <h5 className="font-bold my-2">TIKTOK BLOG</h5>
+          <p>- Team size: 1</p>
+          <p>- Timeline: 2 day</p>
           <p>
             - I came up with the idea of ​​interface design with figma, and
             implemented the website
@@ -184,6 +188,7 @@ function ProjectItem({}) {
             - The databases used for the marketplace and launchpad are Moralis
             and some storage on the blockchain
           </p>
+          <p>- Timeline for all project about 3 month (many version)</p>
           <Link href="https://marketplace.pyramidwalk.com/" passHref>
             <a target="_blank">
               <h5 className="font-medium underline-offset-2 underline my-1 text-blue-500">
@@ -217,6 +222,15 @@ function ProjectItem({}) {
             {" "}
             + Join to update Ui, control and test modular interact contract
           </p>
+          <h5 className="font-medium  my-1 text-blue-500">
+            1 App ready on AppStore/ChPlay (Pyramid walk2earn) (Built using
+            React Native)
+          </h5>
+          <p>- Team size: 2.</p>
+          <p>- Responsiable: </p>
+          <p> + Join to update Ui</p>
+          <p> + Fix logic caculate distance run of user</p>
+          <p> + Add interact with api, load data for app</p>
         </div>
       </div>
       {/* Mklabs  */}
@@ -232,6 +246,7 @@ function ProjectItem({}) {
           </Link>
           <h5 className="font-bold my-2">MKLABS</h5>
           <p>- Team size: 3.</p>
+          <p>- Timeline: 2021</p>
           <p>- Responsiable: </p>
           <p> + Team lead</p>
           <p> + Build Moralis Database for feature predition</p>
@@ -256,6 +271,7 @@ function ProjectItem({}) {
 
           <h5 className="font-bold my-2">Project Laravel + MySQL</h5>
           <p>- Team size: 1 </p>
+          <p>- Timeline: 2019</p>
           <p>
             - Build the function of registration, login, authorization,
             automatic mailing order confirmation, admin can track order, update
@@ -283,7 +299,8 @@ function ProjectItem({}) {
           </Link>
 
           <h5 className="font-bold my-2">Convert PSD file to Html/Css</h5>
-
+          <p>- Team size: 1.</p>
+          <p>- Timeline: 2019</p>
           <p>- ✨ Interface made with Html/Css</p>
         </div>
       </div>
