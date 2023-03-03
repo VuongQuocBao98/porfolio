@@ -42,9 +42,9 @@ function ProjectItem({}) {
                 SoccerWorld Blockchain GameFi
               </h4>
               <div className="flex overflow-x-scroll">
-                <img src="sc1.png" className="w-[90%]" alt="newstore" />
-                <img src="scc.png" className="flex-1" alt="newstore" />
-                <img src="sc.png" className="flex-1" alt="newstore" />
+                <img src="sc1.PNG" className="w-[90%]" alt="newstore" />
+                <img src="scc.PNG" className="flex-1" alt="newstore" />
+                <img src="sc.PNG" className="flex-1" alt="newstore" />
               </div>
             </a>
           </Link>
