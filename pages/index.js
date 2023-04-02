@@ -43,7 +43,7 @@ export default function Home() {
       {/* My Skil */}
       <section className="m-4">
         <div className="m-2">
-          <h3 className="text-green-400 font-bold">Kỹ Năng</h3>
+          <h3 className="text-green-400 font-bold">Skills</h3>
           <div className="grid grid-cols-12 gap-2">
             {/* <div className="col-span-12 md:col-span-6 flex items-center">
               <RiReactjsLine />
